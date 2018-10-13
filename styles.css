@@ -1,0 +1,85 @@
+body{
+	background-color: rgb(18, 18, 23);
+	color: #fbe2ff;
+	font-family: 'Roboto', sans-serif;
+
+}
+#colors{
+	background-color: rgb(0, 0, 0)
+}
+
+
+#intro td{
+	text-align: center;
+	vertical-align: middle;
+}
+#intro{
+	width: 100%;
+}
+
+
+#table3{
+	width: 100%;
+}
+#table3 table{
+	width: 100%;
+
+}
+#table3 td{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.jumbotron{
+	background-color: rgba(36, 35, 35, 0.66);
+	
+	margin-top: 60px;
+}
+/*.colorss{
+	background-color: #fbe2ff;     */            /*pink*/
+/*}*/
+.fontb{
+	font-size: 53px;
+}
+.no{
+	border:none;
+	background-color: none;
+	background-color: rgba(36, 35, 35, 0.66);
+	color: white;
+}
+.yes{
+	padding-left: 70px;
+}
+.home-newsletter {
+padding: 80px 0;
+background: rgba(36, 35, 35, 0.66);
+}
+
+.home-newsletter .single {
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2; }
+.home-newsletter .single h2 {
+font-size: 22px;
+color: white;
+text-transform: uppercase;
+margin-bottom: 40px; }
+.home-newsletter .single .form-control {
+height: 50px;
+background: rgba(255, 255, 255, 0.6);
+border-color: transparent;
+border-radius: 20px 0 0 20px; }
+.home-newsletter .single .form-control:focus {
+box-shadow: none;
+border-color: #243c4f; }
+.home-newsletter .single .btn {
+min-height: 50px; 
+border-radius: 0 20px 20px 0;
+background: #243c4f;
+color: #fff;
+}
+.down{
+	opacity: .6;
+}
